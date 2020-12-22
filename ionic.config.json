@@ -1,0 +1,7 @@
+{
+  "name": "ion-Kanapat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
